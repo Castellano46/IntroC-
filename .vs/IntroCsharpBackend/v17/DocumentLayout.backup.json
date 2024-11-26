@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\IntroCsharpBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro\\Desktop\\IntroCsharpBackend\\IntroCsharpBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IntroCsharpBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D328E20-8900-421D-B1C5-AFBCC5EDDCD1}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\pedro\\desktop\\introcsharpbackend\\introcsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D328E20-8900-421D-B1C5-AFBCC5EDDCD1}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D328E20-8900-421D-B1C5-AFBCC5EDDCD1}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\pedro\\desktop\\introcsharpbackend\\introcsharpbackend\\introcsharpbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D328E20-8900-421D-B1C5-AFBCC5EDDCD1}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\introcsharpbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntroCsharpBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\IntroCsharpBackend\\IntroCsharpBackend\\IntroCsharpBackend.csproj",
+              "RelativeDocumentMoniker": "IntroCsharpBackend\\IntroCsharpBackend.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\IntroCsharpBackend\\IntroCsharpBackend\\IntroCsharpBackend.csproj",
+              "RelativeToolTip": "IntroCsharpBackend\\IntroCsharpBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T09:01:26.2Z"
             },
             {
               "$type": "Document",
@@ -28,7 +48,7 @@
               "RelativeDocumentMoniker": "IntroCsharpBackend\\Program.cs",
               "ToolTip": "C:\\Users\\pedro\\Desktop\\IntroCsharpBackend\\IntroCsharpBackend\\Program.cs",
               "RelativeToolTip": "IntroCsharpBackend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T10:43:30.157Z",
               "EditorCaption": ""
